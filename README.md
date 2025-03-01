@@ -81,7 +81,7 @@ I am a backend developer specializing in building high-performance and scalable 
   <a href="https://github.com/pospod011/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-pospod011-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://t.me/@Kazybaev09" target="_blank">
+  <a href="https://web.telegram.org/a/" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" alt="Telegram">
   </a>
 </div>
